@@ -13,13 +13,13 @@ The goal of our application is to provide a delivery service for common electron
 
 ## Team
 
-| Role             | NMEC  | Member         |
-| ---------------- | ----- | -------------- |
-| Team Coordinator | 97939 | Tomé Carvalho  |
-| Product Owner    | X     | X              |
-| QA Engineer      | X     | X              |
-| DevOps Master    | X     | Camila Fonseca |
-| Developer        | N/A   | All            |
+| Role             | NMEC  | Member          |
+| ---------------- | ----- | --------------- |
+| Team Coordinator | 97939 | Tomé Carvalho   |
+| Product Owner    | 96123 | Lucius Vinicius |
+| QA Engineer      | 98452 | Dinis Lei       |
+| DevOps Master    | 97880 | Camila Fonseca  |
+| Developer        | N/A   | All             |
 
 ## Bookmarks
 
