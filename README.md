@@ -26,3 +26,7 @@ The goal of our application is to provide a delivery service for common electron
 Jira board: https://tqs-g1-1.atlassian.net/jira/software/projects/TQSG11/boards/1
 
 GitHub organisation: https://github.com/TQS-G11
+
+Project Specification Report (Overleaf): https://www.overleaf.com/read/wsvgdtrsqvfy
+
+QA Manual (Overleaf): https://www.overleaf.com/read/mjggkpkmxzjn
