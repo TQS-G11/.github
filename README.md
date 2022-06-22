@@ -33,9 +33,9 @@ QA Manual (Overleaf): https://www.overleaf.com/read/mjggkpkmxzjn
 
 ## Deployments
 Zap
-  - Backend: https://213.199.129.9:8081
+  - Backend: http://213.199.129.9:8081
   - Frontend: https://62b355cc06e3db07aedbbbd0--frolicking-lebkuchen-912706.netlify.app/
   - 
 Deliverize
-  - Backend: https://213.199.129.9:8082
+  - Backend: http://213.199.129.9:8082
   - Frontend: https://develop--lighthearted-dango-758857.netlify.app/
